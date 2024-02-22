@@ -2,4 +2,4 @@
 
 - Estado del Proyecto: En Desarrollo.
 
-Barbería Alura 2, haciendo Prueba de git pull
+Barbería Alura 2, haciendo Prueba de git push
